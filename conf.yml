@@ -1,5 +1,4 @@
 test:
-  hello:
-    - 'wrold'
+  hello: 123
   terra: upi
   teffa: yare
