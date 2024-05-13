@@ -6,3 +6,8 @@ huest:
   opa: opa
   nuhaha: aaaaaaa
   lolirue: lol
+someproj:
+  nupkg:
+   - proj1
+   - proj2
+   - proj3
